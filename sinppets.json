@@ -1,0 +1,8 @@
+{
+  "initial": {
+    "prefix": "payment-component-init",
+    "body": [],
+    "description": "",
+    "scope": "javascript,typescript,typescriptreact"
+  }
+}
